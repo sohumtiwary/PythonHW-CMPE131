@@ -1,0 +1,6 @@
+There is no change for a after increment_in_a
+
+There is no change for b after increment_int_b
+
+The key difference is that a is immutable since it is an integer, but increment_int_a creates a new int and rebinds it.
+Variable b on the other hand is a dict data type which makes it mutable.
