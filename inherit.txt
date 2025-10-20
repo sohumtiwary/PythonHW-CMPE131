@@ -1,0 +1,2 @@
+To optimize your program, inheritance would be a great tool to avoid repeating any functions. 
+To further avoid duplication, inheritance allows for subclasses to customize behavior.
